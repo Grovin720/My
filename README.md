@@ -6,29 +6,28 @@
 - 设置 — 配置地址 — 输入你的站源规则 — 确定即可；  
 - 新版支持多jar(爬虫包)，增加直播节目预告 EGP。
 - 编辑器 PC Web版 [CatVodTVJsonEditor](https://catvodtvofficial.github.io/CatVodTVJsonEditor/)
+- 配置地址---输入站源---确定即可  URL站源规则   
 ### 版本
-- 1.官方版-q215613905  - 🔰[TVBox_20221203-1519.apk](https://liucn.lanzouf.com/iNFdw0il111i)　🔰[TVbox--密123](https://tsq.lanzouf.com/b0c4nr91c#123)　🔰[夸克下载](https://pan.quark.cn/s/4990bab723a1)　🔰[Pluto Player改版](https://pan.quark.cn/s/d5d888f3e25d)
+- 1.开源版  自用`https://raw.liucn.cc/box/m.json`   
+ 🔰官方原版[TVBox_q215613905_20230302-0924.apk](https://liucn.lanzouf.com/idz8n0r4nbgh)　🔰UI美化版[TVBox_takagen99_20230319-0039.apk](https://liucn.lanzouf.com/iUHmM0r4nbwd)　  
+ 🔰[更多TVbox](https://tsq.lanzouf.com/b0c4nr91c#123)　🔰[更多TVbox](https://wws.lanzouv.com/b03j4ulyh#999)　🔰[更多下载](https://www.123pan.com/s/dIgRVv-Th3D3)　🔰[更多下载](https://www.123pan.com/s/dIgRVv-vh3D3)　🔰[Pluto Player](https://www.123pan.com/s/dIgRVv-Ah3D3)　
 
-- 2.多仓版-安卓哥开发 - 🔰[影视仓_3.0.3_opt.apk](https://liucn.lanzouf.com/i9Pp10il0d3g)　他人整理`https://raw.liucn.cc/box/dm.txt`
+- 2.多仓版  他人整理`https://raw.liucn.cc/box/dm.txt`  
+ 🔰原版[影视仓_3.0.3_opt.apk](https://liucn.lanzouf.com/i9Pp10il0d3g)　🔰原版[影视仓_3.0.8_opt.apk](https://liucn.lanzouf.com/i0LPL0lvbqje)　  
+ 🔰原版[影视仓_4.0.2_opt.apk](https://liucn.lanzouf.com/i13mU0jtp6vg)　🔰原版[影视仓_4.0.3_opt.apk](https://liucn.lanzouf.com/i8bE20k6skgb)　  
+ 🔰原版[影视仓_4.0.7_opt.apk](https://liucn.lanzouf.com/i8VIp0m069oh)     
+ 🔰原版[影视仓_4.0.15_2_opt.apk](https://liucn.lanzouf.com/iZbtF0q5w8na)　🔰原版[影视仓_4.0.16_opt.apk](https://liucn.lanzouf.com/ihiwR0r4kkah)   
+ 🔰UI改版[可视TV Max_1.3.6.apk](https://liucn.lanzouf.com/iqzqG0jsl9ud)　🔰[更多](https://wwc.lanzoub.com/b0es81t8j#54jb)　🔰[更多](https://wwjn.lanzout.com/b03jpibob#1234)
 
-- 3.内置版-小苹果 - 🔰[小苹果影视盒子-1.0.5.apk](https://liucn.lanzouf.com/i361g0il0bta)　`https://raw.liucn.cc/box/xiaopingguo.json`
+- 3.内置版  
+ -小苹果 - 🔰[小苹果影视盒子-1.0.4.apk](https://liucn.lanzouf.com/ipon60ddh4oh)　🔰[小苹果影视盒子-1.0.5.apk](https://liucn.lanzouf.com/i361g0il0bta)　`https://raw.liucn.cc/box/xiaopingguo.json`  
 
-- 4.手机版-影音壳子 - 🔰[影音壳子1.3.6.apk](https://liucn.lanzouf.com/iyGys0il0e1a)
-
-配置地址---输入站源---确定即可<br /> URL站源规则 `https://raw.liucn.cc/box/m.json` <br />
+- 4.手机版-影音壳子 - 🔰[影音壳子1.3.6.apk](https://liucn.lanzouf.com/iyGys0il0e1a)　🔰[影音壳子1.4.1.apk](https://liucn.lanzouf.com/iZlVl0jsm5kf)  
 
 TVbox开源版 | 多仓版-安卓哥开发
 ---------|---------
-![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box01.jpg) | ![多仓](https://raw.iqiq.io/liu673cn/box/main/sub/img/多仓01.jpg)
-![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box02.jpg) | ![多仓](https://raw.iqiq.io/liu673cn/box/main/sub/img/多仓02.jpg)
-
-- 5.i酷.TV浏览器-酷影说 - 🔰[iku_browr盒子版_v1.0.6.apk](https://liucn.lanzouf.com/iqmWs0il0soh)
-
-- 6.i酷.浏览器-手机版 - 🔰[iku2_release手机版_v2.0.0.apk](https://liucn.lanzouf.com/iltw80il0syh)
- 
-浏览器主页 |轻站内容页
----------|---------
-![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/i酷01.jpg) | ![多仓](https://raw.iqiq.io/liu673cn/box/main/sub/img/i酷02.jpg)
+![box](https://raw.liucn.cc/box/sub/img/box01.jpg) | ![多仓](https://raw.liucn.cc/box/sub/img/多仓01.jpg)
+![box](https://raw.liucn.cc/box/sub/img/box02.jpg) | ![多仓](https://raw.liucn.cc/box/sub/img/多仓02.jpg)
 
 MXPlayer-Pro-1.46.10高级解锁版   
 [https://liucn.lanzouv.com/ixhSy097prod](https://liucn.lanzouv.com/ixhSy097prod)  
@@ -43,7 +42,7 @@ https://gitee.com/
 https://coding.net/  
 
 https://gitcode.net/  
-https://gitea.com/  仓库名是 mao,tvbox,box,tv等类似的，有几率出现 1.删除仓库 2.删除用户 3.封禁账户 4.黑名单  
+https://gitea.com/  
 https://agit.ai/  
 https://notabug.org/  
 
@@ -53,7 +52,7 @@ https://epg.112114.xyz/pp.xml
 
 ------
 ### 给英文不好的朋友
-GitHub 中文化插件   🔰[https://greasyfork.org/zh-CN/scripts/435208](https://greasyfork.org/zh-CN/scripts/435208)
+GitHub 中文化插件   🔰[https://greasyfork.org/zh-CN/scripts/435208](https://greasyfork.org/zh-CN/scripts/435208)  
 Github 增强-高速下载 🔰[https://greasyfork.org/zh-CN/scripts/412245](https://greasyfork.org/zh-CN/scripts/412245)  
 
 ### Github RAW 加速服务
